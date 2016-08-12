@@ -12,3 +12,11 @@ The dockerfiles are organised like this:
      └── 2.3.1-2.1.1        # represents <ruby-version>:<gdal-version>
          └── Dockerfile
 ```
+
+### Additional license information
+
+Ruby:
+[https://www.ruby-lang.org/en/about/license.txt](https://www.ruby-lang.org/en/about/license.txt)
+
+GDAL:
+[http://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse](http://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse)
