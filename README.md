@@ -20,3 +20,9 @@ Ruby:
 
 GDAL:
 [http://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse](http://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse)
+
+Node:
+[https://github.com/nodejs/node/blob/master/LICENSE](https://github.com/nodejs/node/blob/master/LICENSE)
+
+Chromium:
+[https://www.chromium.org/chromium-os/licenses](https://www.chromium.org/chromium-os/licenses)
